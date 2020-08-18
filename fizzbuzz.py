@@ -9,6 +9,6 @@ def fizzbuzz_convert(num):
 
 
 # num = int(input('1つの自然数を入れてください:'))
-# Amend
+
 r = fizzbuzz_convert(1)
 print(r)
