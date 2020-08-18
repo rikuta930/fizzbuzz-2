@@ -10,5 +10,5 @@ def fizzbuzz_convert(num):
 
 # num = int(input('1つの自然数を入れてください:'))
 
-r = fizzbuzz_convert(1)
-print(r)
+for i in range(1, 101):
+    print(fizzbuzz_convert(i))
